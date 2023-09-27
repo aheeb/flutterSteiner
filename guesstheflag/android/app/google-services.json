@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "970152763586",
+    "project_id": "fluttersteiner",
+    "storage_bucket": "fluttersteiner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970152763586:android:c55960753fa88763781b5b",
+        "android_client_info": {
+          "package_name": "com.company.guesstheflag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxnEMrOt0o5xnzKg7rfid8sq9g3p19kAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970152763586:android:8f1ec3f16d8fbe3a781b5b",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxnEMrOt0o5xnzKg7rfid8sq9g3p19kAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970152763586:android:be085cf070e577b5781b5b",
+        "android_client_info": {
+          "package_name": "com.example.guesstheflag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxnEMrOt0o5xnzKg7rfid8sq9g3p19kAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
